@@ -1,0 +1,10 @@
+-- avg salary
+-- max/min salary
+-- most common title
+-- dept w/ most employees
+-- longest empl
+-- highest avg salary per dept
+-- Employees - oldest, youngest, oldest male, oldest female
+-- Count of employee by dept
+-- highest salary for emp
+	-- under 30, under 40, over 50, over 60
