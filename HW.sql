@@ -13,6 +13,7 @@ LIMIT 1;
 select d.dept_no, d.dept_name, (count(e.emp_no))
 from departments d inner join dept_emp e 
 on d.dept_no = e.dept_no
+where to_date = '9999-01-01'
 group by dept_no;
 -- longest empl
 
